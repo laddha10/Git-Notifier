@@ -19,4 +19,4 @@ _* * * * * /your/directory/Script_
 
 where " * " depicts 
 
-minute hour day month day-of-week repectively from left to right
+minute hour day month day-of-week repectively from left to right.
